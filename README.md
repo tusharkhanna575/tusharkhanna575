@@ -13,25 +13,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/tushar-khanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tushar-khanna" height="30" width="40" /></a>
-<a href="https://dev.to/tusharkhanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tusharkhanna" height="30" width="40" /></a>
-<a href="https://twitter.com/tushar5khanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar5khanna" height="30" width="40" /></a>
+
+<a href="https://twitter.com/tushar5khanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar5khanna" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharkhanna5112" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15747641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15747641" height="30" width="40" /></a>
-<a href="https://codesandbox.com/tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tusharkhanna5112" height="30" width="40" /></a>
 <a href="https://kaggle.com/tusharkhanna5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tusharkhanna5" height="30" width="40" /></a>
+
 <a href="https://fb.com/tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tusharkhanna5112" height="30" width="40" /></a>
 <a href="https://instagram.com/tushar5khanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar5khanna" height="30" width="40" /></a>
-<a href="https://hashnode.com/@tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tusharkhanna5112" height="30" width="40" /></a>
-<a href="https://medium.com/@khanna.tushar5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khanna.tushar5112" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tusharkhanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tusharkhanna" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tushar5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tushar5112" height="30" width="40" /></a>
+
 <a href="https://codeforces.com/profile/tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tusharkhanna5112" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tushar5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar5112" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@khanna.tushar5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@khanna.tushar5112" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tusharkhanna5112" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/tusharkhanna5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="tusharkhanna5" height="30" width="40" /></a>
-<a href="https://discord.gg/n4Ce5DNQkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="n4Ce5DNQkQ" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
