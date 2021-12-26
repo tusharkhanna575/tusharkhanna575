@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khanna.tushar5112@gmail.com**
 
-- ⚡ Fun fact **Coding is a good job for people who like to work alone, like me :)**
+- ⚡ Fun fact **My code doesn't have bugs, but has some SPECIAL FEATURES:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
