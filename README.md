@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Khanna</h1>
-<h3 align="center">Sophomore CS Undegrad</h3>
+<h3 align="center">Sophomore CSE Undegraduate Student</h3>
 
 <p align="left"> <a href="https://twitter.com/tushar5khanna" target="blank"><img src="https://img.shields.io/twitter/follow/tushar5khanna?logo=twitter&style=for-the-badge" alt="tushar5khanna" /></a> </p>
 
