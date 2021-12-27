@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khanna.tushar5112@gmail.com**
 
-- ⚡ Fun fact **My code doesn't have bugs, but has some SPECIAL FEATURES:)**
+- ⚡ Fun fact **My code doesn't have bugs, but develops some SPECIAL FEATURES:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
