@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Python3 , MySQL**
+- 💬 Ask me about **Python3 , MySQL , C++** 
 
 - 📫 How to reach me **khanna.tushar5112@gmail.com**
 
