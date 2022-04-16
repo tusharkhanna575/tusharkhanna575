@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tushar5khanna" target="blank"><img src="https://img.shields.io/twitter/follow/tushar5khanna?logo=twitter&style=for-the-badge" alt="tushar5khanna" /></a> </p>
 
-- 🌱 I’m currently learning **DSA , Web Developmet**
+- 🌱 I’m currently learning **DSA , Web Development**
 
 - 💬 Ask me about **Python3 , MySQL , C++ , DSA** 
 
