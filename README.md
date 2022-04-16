@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/tushar5khanna" target="blank"><img src="https://img.shields.io/twitter/follow/tushar5khanna?logo=twitter&style=for-the-badge" alt="tushar5khanna" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA , Web Developmet**
 
-- 💬 Ask me about **Python3 , MySQL , C++** 
+- 💬 Ask me about **Python3 , MySQL , C++ , DSA** 
 
 - 📫 How to reach me **khanna.tushar5112@gmail.com**
 
