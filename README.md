@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **Python3 , MySQL , C++ , DSA** 
 
-- 📫 How to reach me **khanna.tushar5112@gmail.com**
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-khanna.tushar5112@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khanna.tushar5112@gmail.com)](mailto:khanna.tushar5112@gmail.com)
+
 
 - ⚡ Fun fact **My code doesn't have bugs, but develops some SPECIAL FEATURES:)**
 
@@ -17,7 +18,7 @@
 <p align="left">
 
 <a href="https://twitter.com/tushar5khanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar5khanna" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharkhanna5112" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Tushar_Khanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharkhanna5112/)](https://www.linkedin.com/in/tusharkhanna5112/)
 <a href="https://stackoverflow.com/users/15747641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15747641" height="30" width="40" /></a>
 <a href="https://kaggle.com/tusharkhanna5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tusharkhanna5" height="30" width="40" /></a>
 
