@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Khanna</h1>
 <h3 align="center">Sophomore CSE Undegraduate Student</h3>
 
-<p align="left"> <a href="https://twitter.com/tushar5khanna" target="blank"><img src="https://img.shields.io/twitter/follow/tushar5khanna?logo=twitter&style=for-the-badge" alt="tushar5khanna" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tushar5112&label=Profile%20views&color=0e75b6&style=flat" alt="tushar5112" /> </p>
+
+
 
 - 🌱 I’m currently learning **DSA , Web Development**
 
