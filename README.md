@@ -28,10 +28,10 @@
 <h3 align="left">Coding Profile :</h3>
 <p align="left">
 
-[![Leetcode Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/Tushar5112/)](https://leetcode.com/Tushar5112/)
-[![Codechef Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=flat-square&logo=Codechef&link=https://www.codechef.com/users/tusharkhanna/)](https://www.codechef.com/users/tusharkhanna/)
-[![GFG Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=flat-square&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/tusharkhanna5112/)](https://auth.geeksforgeeks.org/user/tusharkhanna5112/)
-[![Hackerrank Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=flat-square&logo=Hackerrank&link=https://www.hackerrank.com/tushar5112/)](https://www.hackerrank.com/tushar5112/)
+[![Leetcode Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Leetcode&link=https://leetcode.com/Tushar5112/)](https://leetcode.com/Tushar5112/)
+[![Codechef Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Codechef&link=https://www.codechef.com/users/tusharkhanna/)](https://www.codechef.com/users/tusharkhanna/)
+[![GFG Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/tusharkhanna5112/)](https://auth.geeksforgeeks.org/user/tusharkhanna5112/)
+[![Hackerrank Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Hackerrank&link=https://www.hackerrank.com/tushar5112/)](https://www.hackerrank.com/tushar5112/)
 
 </p>
 
