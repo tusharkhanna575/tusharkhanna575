@@ -1,3 +1,6 @@
+<img src="github.png"/>
+
+
 <h1 align="center">Hi 👋, I'm Tushar Khanna</h1>
 <h3 align="center">Pre-Final Year CSE Undegraduate Student</h3>
 
