@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Khanna</h1>
-<h3 align="center">Sophomore CSE Undegraduate Student</h3>
+<h3 align="center">Pre-Final Year CSE Undegraduate Student</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tushar5112&label=Profile%20views&color=0e75b6&style=flat" alt="tushar5112" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tushar5112&label=Profile%20views&color=0e75b6&style=plastic" alt="tushar5112" /> </p>
 
 
 
@@ -9,28 +9,26 @@
 
 - 💬 Ask me about **Python3 , MySQL , C++ , DSA** 
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-khanna.tushar5112@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khanna.tushar5112@gmail.com)](mailto:khanna.tushar5112@gmail.com)
-
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-khanna.tushar5112@gmail.com-c14438?style=flat-sqaure&logo=Gmail&logoColor=white&link=mailto:khanna.tushar5112@gmail.com)](mailto:khanna.tushar5112@gmail.com)
 
 - ⚡ Fun fact **My code doesn't have bugs, but develops some SPECIAL FEATURES:)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 
-<a href="https://twitter.com/tushar5khanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar5khanna" height="30" width="40" /></a> 
 [![Linkedin Badge](https://img.shields.io/badge/-Tushar_Khanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharkhanna5112/)](https://www.linkedin.com/in/tusharkhanna5112/)
-<a href="https://stackoverflow.com/users/15747641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15747641" height="30" width="40" /></a>
-<a href="https://kaggle.com/tusharkhanna5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tusharkhanna5" height="30" width="40" /></a>
+[![Twitter Badge](https://img.shields.io/badge/-Tushar_Khanna-informational?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Tushar5Khanna/)](https://twitter.com/Tushar5Khanna/)
 
-<a href="https://fb.com/tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tusharkhanna5112" height="30" width="40" /></a>
-<a href="https://instagram.com/tushar5khanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar5khanna" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tusharkhanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tusharkhanna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tushar5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tushar5112" height="30" width="40" /></a>
+</p>
 
-<a href="https://codeforces.com/profile/tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tusharkhanna5112" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tushar5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar5112" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@khanna.tushar5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@khanna.tushar5112" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tusharkhanna5112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tusharkhanna5112" height="30" width="40" /></a>
+
+<h3 align="left">Coding Profile :</h3>
+<p align="left">
+
+[![Leetcode Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/Tushar5112/)](https://leetcode.com/Tushar5112/)
+[![Codechef Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=flat-square&logo=Codechef&link=https://www.codechef.com/users/tusharkhanna/)](https://www.codechef.com/users/tusharkhanna/)
+[![GFG Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=flat-square&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/tusharkhanna5112/)](https://auth.geeksforgeeks.org/user/tusharkhanna5112/)
+[![Hackerrank Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=flat-square&logo=Hackerrank&link=https://www.hackerrank.com/tushar5112/)](https://www.hackerrank.com/tushar5112/)
 
 </p>
 
