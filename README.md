@@ -41,3 +41,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar5112&show_icons=true&locale=en&layout=compact" alt="tushar5112" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar5112&show_icons=true&locale=en" alt="tushar5112" /></p>
+
+<!-- ACTIVITY GRAPH TRACKER -->
+[![tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=tushar5112&theme=react-dark)](https://github.com/tushar5112/github-readme-activity-graph)
+
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tushar5112&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+         
