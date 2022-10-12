@@ -32,6 +32,7 @@
 [![Codechef Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Codechef&link=https://www.codechef.com/users/tusharkhanna/)](https://www.codechef.com/users/tusharkhanna/)
 [![GFG Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/tusharkhanna5112/)](https://auth.geeksforgeeks.org/user/tusharkhanna5112/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Hackerrank&link=https://www.hackerrank.com/tushar5112/)](https://www.hackerrank.com/tushar5112/)
+[![@tusharkhanna's Holopin board](https://holopin.me/tusharkhanna)](https://holopin.io/@tusharkhanna)
 
 </p>
 
