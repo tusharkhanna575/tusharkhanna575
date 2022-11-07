@@ -31,10 +31,14 @@
 [![Leetcode Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Leetcode&link=https://leetcode.com/Tushar5112/)](https://leetcode.com/Tushar5112/)
 [![Codechef Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Codechef&link=https://www.codechef.com/users/tusharkhanna/)](https://www.codechef.com/users/tusharkhanna/)
 [![GFG Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/tusharkhanna5112/)](https://auth.geeksforgeeks.org/user/tusharkhanna5112/)
-[![Hackerrank Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Hackerrank&link=https://www.hackerrank.com/tushar5112/)](https://www.hackerrank.com/tushar5112/)
+[![Hackerrank Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Hackerrank&link=https://www.hackerrank.com/tushar5112/)](https://www.hackerrank.com/tushar5112/) 
+</p>
+
+<h3 align="left">Hacktoberfest 2k22:</h3> 
+
 [![@tusharkhanna's Holopin board](https://holopin.me/tusharkhanna)](https://holopin.io/@tusharkhanna)
 
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
