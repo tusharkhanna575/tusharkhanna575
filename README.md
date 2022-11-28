@@ -1,4 +1,5 @@
-<img src="banner.png"/>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74552274/204304797-fe0739f8-fe11-4f49-8903-c51ca2aab8cd.png" /> </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Tushar Khanna</h1>
