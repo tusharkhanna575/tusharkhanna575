@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tushar_Khanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharkhanna5112/)](https://www.linkedin.com/in/tusharkhanna5112/)
-[![Twitter Badge](https://img.shields.io/badge/-Tushar_Khanna-informational?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Tushar5Khanna/)](https://twitter.com/tusharkhanna575/)
+[![Linkedin Badge](https://img.shields.io/badge/-Tushar_Khanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharkhanna575/)](https://www.linkedin.com/in/tusharkhanna575/)
+[![Twitter Badge](https://img.shields.io/badge/-Tushar_Khanna-informational?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/tusharkhanna575/)](https://twitter.com/tusharkhanna575/)
 
 </p>
 
@@ -28,8 +28,8 @@
 <h3 align="left">Coding Profile :</h3>
 <p align="left">
 
-[![Leetcode Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Leetcode&link=https://leetcode.com/Tushar5112/)](https://leetcode.com/tusharkhanna575/)
-[![Codechef Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Codechef&link=https://www.codechef.com/users/tusharkhanna/)](https://www.codechef.com/users/tusharkhanna/)
+[![Leetcode Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Leetcode&link=https://leetcode.com/tusharkhanna575/)](https://leetcode.com/tusharkhanna575/)
+[![Codechef Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Codechef&link=https://www.codechef.com/users/tushark575/)](https://www.codechef.com/users/tushark575/)
 [![GFG Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/tusharkhanna5112/)](https://auth.geeksforgeeks.org/user/tusharkhanna5112/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Tushar_Khanna-black?style=plastic&logo=Hackerrank&link=https://www.hackerrank.com/tushar5112/)](https://www.hackerrank.com/tushar5112/) 
 </p>
