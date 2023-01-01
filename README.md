@@ -50,4 +50,5 @@
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharkhanna575&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
-         
+        
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tusharkhanna575?theme=unicorn&ext=heatmap&border=0&radius=20)](https://leetcode.com/tusharkhanna575)
