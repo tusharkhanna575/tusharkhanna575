@@ -46,10 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharkhanna575&show_icons=true&locale=en&layout=compact" alt="tusharkhanna575" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharkhanna575&show_icons=true&locale=en" alt="tusharkhanna575" /></p>
-
-<!-- ACTIVITY GRAPH TRACKER -->
-[![tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=tusharkhanna575&theme=react-dark)](https://github.com/tusharkhanna575/github-readme-activity-graph)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharkhanna575&show_icons=true&locale=en" alt="tusharkhanna575" /> </p>
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharkhanna575&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
