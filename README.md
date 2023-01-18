@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA , Web Development**
 
-- 💬 Ask me about **Python3 , MySQL , C++ , DSA** 
+- 💬 I'm open to collaborating and brain storming on interesting projects
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-khanna.tushar5112@gmail.com-c14438?style=flat-sqaure&logo=Gmail&logoColor=white&link=mailto:khanna.tushar5112@gmail.com)](mailto:khanna.tushar5112@gmail.com)
 
@@ -50,5 +50,7 @@
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharkhanna575&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ 
+<a href="http://www.github.com/tusharkhanna575"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tusharkhanna575&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Contribution Graph" /></a>
         
 [![Leetcode Stats](https://leetcard.jacoblin.cool/tusharkhanna575?theme=unicorn&ext=heatmap&border=0&radius=20)](https://leetcode.com/tusharkhanna575)
