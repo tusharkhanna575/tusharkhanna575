@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA , Web Development**
+- 🌱 **Writing destiny through wisdom**
 
 - 💬 I'm open to collaborating and brain storming on interesting projects
 
