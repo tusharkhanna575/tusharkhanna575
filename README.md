@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tushar Khanna</h1>
-<h3 align="center">Pre-Final Year CSE Undegraduate Student</h3>
+<h3 align="center">Final Year CSE Undegraduate Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tushar5112&label=Profile%20views&color=0e75b6&style=plastic" alt="tusharkhanna575" /> </p>
 
