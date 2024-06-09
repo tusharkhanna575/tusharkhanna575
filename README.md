@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Khanna</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tushar5112&label=Profile%20views&color=0e75b6&style=plastic&base=11843" alt="tusharkhanna575" /> </p>
 <h3 align="center">Aspiring Software Developer with Expertise in Machine Learning, Artificial Intelligence and Data Science</h3>
+
 
 - 🌱 I’m currently learning **Generative AI**
 
@@ -42,4 +44,3 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tushar5112&label=Profile%20views&color=0e75b6&style=plastic&base=11843" alt="tusharkhanna575" /> </p>
