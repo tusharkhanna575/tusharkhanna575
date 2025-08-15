@@ -9,6 +9,9 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository           # <--- This is required!
+        uses: actions/checkout@v4
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
