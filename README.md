@@ -84,7 +84,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![](https://github.com/tusharkhanna575/tusharkhanna575/blob/main/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/tusharkhanna575/tusharkhanna575/blob/main/github-contribution-grid-snake.svg)
 ---
 
 ### ✍️ Random Dev Quote
