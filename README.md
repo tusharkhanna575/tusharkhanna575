@@ -3,7 +3,7 @@
 
 <p align="center">⭐ "Code is like humor. When you have to explain it, it’s bad."</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tusharkhanna575&label=Profile%20views&color=0e75b6&style=plastic&base=13843" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=tusharkhanna575&label=Profile%20views&color=0e75b6&style=plastic" alt="profile-views" />
 </p>
 
 
