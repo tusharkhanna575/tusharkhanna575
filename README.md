@@ -57,7 +57,7 @@
 
 ## 🎯 Milestones
 - 🎓 Graduated **B.Tech CSE** with **CGPA 9.39**  
-- 🏆 Top **2%** @LeetCode worldwide (Max Contest Rating: **2086**)  
+- 🏆 Top **2%** @LeetCode worldwide (Max Contest Rating: **2089**)  
 - 📜 Selected for **Amazon ML Summer School 2022** from **5000+** candidates  
 - 🤝 Selected as **Microsoft Engage Intern 2022 Mentee** from **20000+** applicants  
 - ✅ **GATE CSE 2024 Qualified**  
