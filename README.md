@@ -14,7 +14,7 @@
 - 🌱 Currently poking at **Generative AI** (trying to make AI that doesn’t sass me back)  
 - 🛠 Crafting **serverless magic** with AWS Lambda + Docker + Boto3  
 - 📊 Have a mild obsession with **data** — if it’s in a database, I want to query it  
-- 📫 Reach me at [![Gmail Badge](https://img.shields.io/badge/-khanna.tushar5112@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:khanna.tushar5112@gmail.com)  
+- 📫 Reach me at [![Gmail Badge](https://img.shields.io/badge/-tusharkhanna.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:tusharkhanna.dev@gmail.com)  
 - 📄 My Story So Far: [My Resume](https://drive.google.com/file/d/13JBjZ1LEUUA8TBFKQ_rrJKzQm2-5M9gp/view)  
 
 ---
